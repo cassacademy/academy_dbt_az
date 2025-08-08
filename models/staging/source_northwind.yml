@@ -1,0 +1,14 @@
+sources:
+
+  - name: northwind
+
+    database: dbt_az
+
+    schema: RAW_NORTHWIND
+
+    tables:
+
+      - name: products 
+
+      - name: category
+ 
